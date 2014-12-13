@@ -1,5 +1,5 @@
 {
-  "name": "gateway",
+  "name": "*****",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://josh@gatewaycaledonia.com/srv/git/gateway.git"
+    "url": "<url>"
   },
   "author": "Josh Vanderwillik",
   "license": "MINE!",
